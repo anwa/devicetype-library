@@ -1,0 +1,10 @@
+---
+manufacturer: Asus
+model: XG-C100F
+part_number: XG-C100F
+comments: Aquantia Corp. AQC100 10G Ethernet MAC controller [AQtion] (rev 02)
+interfaces:
+  - name: '{module}-10GbE'
+    label: '1'
+    type: 10gbase-x-sfpp
+    mgmt_only: false
