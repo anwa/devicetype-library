@@ -1,0 +1,66 @@
+---
+manufacturer: Dell
+model: Precision 3260
+slug: dell-precision-3260
+front_image: true
+rear_image: true
+u_height: 0
+is_full_depth: false
+airflow: front-to-rear
+weight: 2.13
+weight_unit: kg
+comments: '[Data Sheet on dell.com](https://dl.dell.com/content/manual34204451-precision-3260-compact-setup-and-specifications.pdf?language=en-us)'
+interfaces:
+  - name: eth0
+    type: 1000base-t
+console-ports:
+  - name: DP 1
+    label: DP
+    type: other
+    description: DisplayPort 1.4a (HBR2)
+  - name: DP 2
+    label: DP
+    type: other
+    description: DisplayPort 1.4a (HBR2)
+  - name: DP 3
+    label: DP
+    type: other
+    description: DisplayPort 1.4a (HBR2)
+  - name: Front USB-3
+    type: usb-a
+    label: SS 10
+    description: USB 3.2 Gen 2 port with PowerShare (10G)
+  - name: Front USB-C
+    type: usb-c
+    label: SS 20
+    description: USB 3.2 Gen 2x2 Capable Type-C port (20G)
+  - name: Rear USB-3-1
+    type: usb-a
+    label: SS 5 o
+    description: USB 3.2 Gen 1 port with Smart Power On (5G)
+  - name: Rear USB-3-2
+    type: usb-a
+    label: SS 5
+    description: USB 3.2 Gen 1 port (5G)
+  - name: Rear USB-3-3
+    type: usb-a
+    label: SS 10
+    description: USB 3.2 Gen 2 port (10 G)
+  - name: Rear USB-3-4
+    type: usb-a
+    label: SS 10
+    description: USB 3.2 Gen 2 port (10 G)
+  - name: Audio 1
+    type: other
+    description: Re-tasking line-out/line-in audio port
+  - name: Audio 2
+    type: other
+    description: Universal audio jack
+power-ports:
+  - name: PSU1
+    type: dc-terminal
+    description: Power adapter port
+module-bays:
+  - name: '1'
+    position: '1'
+    description: Half-height Gen4 PCIe x8 slot
