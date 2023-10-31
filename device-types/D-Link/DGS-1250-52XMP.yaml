@@ -1,0 +1,216 @@
+---
+manufacturer: D-Link
+model: DGS-1250-52X
+slug: d-link-dgs-1250-52x
+part_number: DGS-1250-52x
+comments: '[D-Link DGS-1250-52X](https://eu.dlink.com/uk/en/products/dgs-1250-gigabit-smart-managed-switches-with-10g-uplinks)'
+is_full_depth: false
+u_height: 1
+console-ports:
+  - name: Console
+    type: rj-45
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+    maximum_draw: 444
+interfaces:
+  - name: '1'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '2'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '3'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '4'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '5'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '6'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '7'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '8'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '9'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '10'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '11'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '12'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '13'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '14'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '15'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '16'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '17'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '18'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '19'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '20'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '21'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '22'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '23'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '24'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '25'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '26'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '27'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '28'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '29'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '30'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '31'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '32'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '33'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '34'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '35'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '36'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '37'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '38'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '39'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '40'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '41'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '42'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '43'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '44'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '45'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '46'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '47'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: '48'
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type1-ieee802.3af
+  - name: 49F
+    type: 10gbase-x-sfpp
+  - name: 50F
+    type: 10gbase-x-sfpp
+  - name: 51F
+    type: 10gbase-x-sfpp
+  - name: 52F
+    type: 10gbase-x-sfpp
