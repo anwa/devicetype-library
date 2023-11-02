@@ -1,8 +1,8 @@
 ---
 manufacturer: Generic
-model: shelf-1he
-slug: generic-shelf-1he
-u_height: 1.0
+model: shelf-4he
+slug: generic-shelf-4he
+u_height: 4.0
 is_full_depth: false
 airflow: passive
 is_powered: false
